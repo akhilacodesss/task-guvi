@@ -575,14 +575,14 @@ nav ul li a:hover {
     padding: 60px 0;
     position: relative;
     overflow: hidden;
-    width:100%;
+    width: 100%;
 }
 
 .airplane-doodles-img {
     padding: 10px 10px;
     position: absolute;
     top: -10px;
-    right: 340px;
+    right: 50px; 
     width: 200px;
     height: auto;
 }
@@ -598,12 +598,12 @@ nav ul li a:hover {
 }
 
 .review-text-column {
-    width: 35%;
+    width: 34%; 
     padding-top: 35px;
+    text-align: left; 
 }
 
 .review-cards-column {
-    width: 60%;
     position: relative;
     min-height: 550px;
 }
