@@ -581,9 +581,9 @@ nav ul li a:hover {
 .airplane-doodles-img {
     padding: 10px 10px;
     position: absolute;
-    top: -10px;
-    right: 150px; 
-    width: 210px;
+    top: 5px;
+    right: 145px; 
+    width: 220px;
     height: auto;
 }
 
@@ -592,13 +592,13 @@ nav ul li a:hover {
     justify-content: space-between;
     align-items: flex-start;
     max-width: 1200px;
-    gap: 20px;
+    gap: 60px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 30px 20px;
 }
 
 .review-text-column {
-    width: 34%; 
+    width: 50%; 
     padding-top: 35px;
     text-align: left;
 }
@@ -614,7 +614,7 @@ nav ul li a:hover {
 }
 
 .review-text-column .secondary-text {
-    font-size: 15px;
+    font-size: 18px;
     line-height: 1.6;
     color: gray;
     margin-bottom: 30px;
@@ -635,9 +635,10 @@ nav ul li a:hover {
 }
 
 .review-cards-column {
-    width: 670px;
+    width: 65%;
     position: relative;
     min-height: 300px;
+    padding: 20px 20px;
 }
 
 .review-card {
