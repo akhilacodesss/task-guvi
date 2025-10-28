@@ -575,14 +575,14 @@ nav ul li a:hover {
     padding: 70px 0;
     position: relative;
     overflow: hidden;
-    width: 100%;
+    width: 98%;
 }
 
 .airplane-doodles-img {
     padding: 10px 10px;
     position: absolute;
     top: 5px;
-    right: 15px; 
+    right: -35px; 
     width: 220px;
     height: auto;
 }
