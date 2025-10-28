@@ -572,7 +572,7 @@ nav ul li a:hover {
 
 /* REVIEW */
 .review-section {
-    padding: 60px 0;
+    padding: 70px 0;
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -582,8 +582,8 @@ nav ul li a:hover {
     padding: 10px 10px;
     position: absolute;
     top: -10px;
-    right: 50px; 
-    width: 200px;
+    right: 150px; 
+    width: 210px;
     height: auto;
 }
 
@@ -600,14 +600,8 @@ nav ul li a:hover {
 .review-text-column {
     width: 34%; 
     padding-top: 35px;
-    text-align: left; 
+    text-align: left;
 }
-
-.review-cards-column {
-    position: relative;
-    min-height: 550px;
-}
-
 .review-text-column .review-primary-text {
     font-size: 45px;
     line-height: 1.5;
@@ -641,16 +635,16 @@ nav ul li a:hover {
 }
 
 .review-cards-column {
-    width: 65%;
+    width: 670px;
     position: relative;
-    min-height: 450px;
+    min-height: 300px;
 }
 
 .review-card {
     background-color: white;
     border-radius: 20px;
     padding: 40px;
-    width: 450px;
+    width: 560px;
     position: absolute;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
 }
@@ -663,7 +657,7 @@ nav ul li a:hover {
 
 
 .review-card.card-2 {
-    bottom: 70px;
+    bottom: -15px;
     left: 60px;
     z-index: 5;
     background-color: #F7F8FC;
