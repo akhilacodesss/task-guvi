@@ -592,13 +592,13 @@ nav ul li a:hover {
     justify-content: space-between;
     align-items: flex-start;
     max-width: 1200px;
-    gap: 60px;
+    gap: 25px;
     margin: 0 auto;
     padding: 30px 20px;
 }
 
 .review-text-column {
-    width: 75%; 
+    width: 50%; 
     padding-top: 35px;
     text-align: left;
 }
