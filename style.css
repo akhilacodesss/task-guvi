@@ -794,9 +794,6 @@ footer {
 }
 
 .subscribe {
-    position: relative;
-    top: -70px;
-    left:25%;
     width: 80%;
     max-width: 1000px;
     padding: 80px 80px;
@@ -804,7 +801,9 @@ footer {
     text-align: center;
     border-radius: 10px;
     border: 50px;
-
+    margin: 0 auto;
+    margin-top: -70px;
+    margin-bottom: 50px;
 }
 
 .subscribe h1 {
@@ -820,19 +819,19 @@ footer {
 }
 
 .subscribe-spiral {
-    position: absolute;
-    bottom: -4%;
-    left: -70px;
-    width: 350px;
-    height: auto;
-    opacity: 0.6;
+    position:absolute;
+    left:295px;
+    width:350px;
+    height:auto;
+    top:110px;
+
 }
 
 .subscribe-palms {
     position: absolute;
     top: 10px;
-    right: 10px;
-    width: 80px;
+    right: 380px;
+    width: 95px;
     height: auto;
 }
 
