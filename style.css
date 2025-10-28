@@ -794,6 +794,7 @@ footer {
 }
 
 .subscribe {
+    position: relative;
     width: 80%;
     max-width: 1000px;
     padding: 80px 80px;
@@ -810,6 +811,13 @@ footer {
     margin-bottom: 30px;
     font-family: "Volkhov", serif;
 }
+.subscribe form {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
 
 .subscribe h1 span {
     color: white;
@@ -817,7 +825,7 @@ footer {
 
 .subscribe-spiral {
     position:absolute;
-    left:285px;
+    left:-45px;
     width:310px;
     height:auto;
     top:140px;
@@ -827,7 +835,7 @@ footer {
 .subscribe-palms {
     position: absolute;
     top: 10px;
-    right: 365px;
+    right: 50px;
     width: 100px;
     height: auto;
 }
