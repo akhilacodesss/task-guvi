@@ -582,7 +582,7 @@ nav ul li a:hover {
     padding: 10px 10px;
     position: absolute;
     top: 5px;
-    right: 145px; 
+    right: 15px; 
     width: 220px;
     height: auto;
 }
@@ -598,7 +598,7 @@ nav ul li a:hover {
 }
 
 .review-text-column {
-    width: 50%; 
+    width: 75%; 
     padding-top: 35px;
     text-align: left;
 }
