@@ -800,10 +800,7 @@ footer {
     background-color: #e67d2e;
     text-align: center;
     border-radius: 10px;
-    border: 50px;
-    margin: 0 auto;
-    margin-top: -70px;
-    margin-bottom: 50px;
+    margin: -70px auto 50px auto;
 }
 
 .subscribe h1 {
@@ -820,18 +817,18 @@ footer {
 
 .subscribe-spiral {
     position:absolute;
-    left:295px;
-    width:350px;
+    left:285px;
+    width:310px;
     height:auto;
-    top:110px;
+    top:140px;
 
 }
 
 .subscribe-palms {
     position: absolute;
     top: 10px;
-    right: 380px;
-    width: 95px;
+    right: 365px;
+    width: 100px;
     height: auto;
 }
 
